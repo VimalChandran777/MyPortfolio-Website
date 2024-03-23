@@ -439,7 +439,7 @@ body {
 .service__card {
   background-color: var(--color-bg-secondary);
   box-shadow: var(--box-shadow);
-  padding: 5rem 3.5rem;
+  padding: 6rem 3.5rem;
   width: 100%;
   max-width: 30rem;
   justify-self: center;
@@ -459,11 +459,18 @@ body {
   color: var(--color-white);
   margin-bottom: 1.5rem;
 }
+/* .service_container{
+  padding-left: 20%;
+} */
+.section__header{
+  justify-self: center;
+}
 
 .service__title {
   font-size: var(--fs-lg);
   margin-bottom: 3rem;
 }
+
 
 /* Projects
 --------------------------------------------------------------*/
